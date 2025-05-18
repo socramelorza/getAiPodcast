@@ -27,7 +27,7 @@ Crie podcasts envolventes onde duas Inteligências Artificiais (Google Gemini) d
 
 1.  **Abra no Google Colab:**
     *   Clique no botão [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/186ilUKQh1iSb3ITSadiuTrspndrYTgnd?usp=sharing) acima.
-    *   Ou acesse diretamente: `(https://colab.research.google.com/drive/186ilUKQh1iSb3ITSadiuTrspndrYTgnd?usp=sharing)`
+    *   Ou acesse diretamente: `https://colab.research.google.com/drive/186ilUKQh1iSb3ITSadiuTrspndrYTgnd?usp=sharing`
 
 2.  **Configure sua API Key do Gemini:**
     *   Obtenha sua API Key no [Google AI Studio](https://aistudio.google.com/app/apikey).
